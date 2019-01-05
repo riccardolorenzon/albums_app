@@ -1,5 +1,5 @@
 # albums_app
 
-The App shows funny and random pictures of cats. 
+The App shows pictures of music albums. 
 
 Bult in React Native
