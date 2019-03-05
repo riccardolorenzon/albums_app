@@ -2,4 +2,4 @@
 
 The App shows pictures of music albums. 
 
-Bult in React Native
+Built in React Native
